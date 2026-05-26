@@ -1,0 +1,6 @@
+{
+  "name": "Startup Name Generator",
+  "description": "Generate unique, creative, and brandable startup names based on your industry and keywords using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
